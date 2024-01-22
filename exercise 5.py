@@ -16,4 +16,6 @@ numbers_y = [75, 65, 35, 75, 30]
 # print the numbers_x given
 print(f"Given lists: {numbers_x}")
 print("result is", similarity_checker(numbers_x))
-
+# print the numbers_y given
+print(f"\nnumbers_y = {numbers_y}")
+print("result is", similarity_checker(numbers_y))
