@@ -6,3 +6,5 @@ def similarity_checker(numbers):
     # make an if statement
     if first_num != second_num:
         return False
+    else:
+        return True
